@@ -2,17 +2,17 @@
 
 **Enter your address. See your risk. Know what to do.**
 
-Foresight is a disaster preparedness tool that shows people their actual risk exposure and what they can do about it—before disaster strikes.
+Foresight is a disaster preparedness tool that shows people their actual risk exposure and what they can do about it -before disaster strikes.
 
 **Live Demo:** https://foresightv1.netlify.app/
 
 ## The Problem
 
-Natural disasters cost the world **$368 billion** in 2024. Over 60% was uninsured—families and communities absorbed the losses alone.
+Natural disasters cost the world **$368 billion** in 2024. Over 60% was uninsured -families and communities absorbed the losses alone.
 
 Those facing the highest risk are the least prepared. In developing nations, **90% of losses are uninsured**. Even in wealthy regions, most people don't know their actual exposure until disaster strikes.
 
-The data exists—flood maps, fault lines, fire zones, historical disasters—it's all public. But it's scattered across government PDFs, buried in technical jargon, and inaccessible to the people who need it most.
+The data exists -flood maps, fault lines, fire zones, historical disasters -it's all public. But it's scattered across government PDFs, buried in technical jargon, and inaccessible to the people who need it most.
 
 ## The Solution
 
@@ -20,7 +20,7 @@ Foresight combines authoritative data sources into a single, accessible interfac
 
 - **See their risk profile** for wildfires, floods, earthquakes, and storms on a 3D map
 - **Understand why** they're at risk with plain-language explanations
-- **Get prioritized actions**—free ones first
+- **Get prioritized actions** -free ones first
 - **See estimated financial exposure** over 10 years
 
 No jargon. No 50-page reports. No technical expertise required.
