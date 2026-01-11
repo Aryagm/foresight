@@ -6,6 +6,8 @@ Foresight is a disaster preparedness tool that shows people their actual risk ex
 
 **Live Demo:** https://foresightv1.netlify.app/
 
+![Foresight Screenshot](demo.png)
+
 ## The Problem
 
 Natural disasters cost the world **$368 billion** in 2024. Over 60% was uninsured -families and communities absorbed the losses alone.
