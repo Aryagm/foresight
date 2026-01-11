@@ -46,7 +46,7 @@ No jargon. No 50-page reports. No technical expertise required.
 
 | Data | Source |
 |------|--------|
-| County Risk Scores | [FEMA National Risk Index](https://hazards.fema.gov/nri/) |
+| County Risk Scores | [FEMA National Risk Index](https://www.fema.gov/about/openfema/data-sets/national-risk-index-data) |
 | Fault Lines | [USGS Quaternary Fault Database](https://www.usgs.gov/programs/earthquake-hazards/faults) |
 | Fire Hazard Zones | [Cal Fire FHSZ](https://osfm.fire.ca.gov/divisions/community-wildfire-preparedness-and-mitigation/wildfire-preparedness/fire-hazard-severity-zones/) |
 | Flood Zones | [FEMA National Flood Hazard Layer](https://www.fema.gov/flood-maps/national-flood-hazard-layer) |
